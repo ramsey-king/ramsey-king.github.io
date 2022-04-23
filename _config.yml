@@ -1,5 +1,5 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
+title: Ramsey King Data Science Portfolio
+description: Here is a collection of my data science projects.  They are born from academia, curiosity, and the pursuit of continuous learning.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
