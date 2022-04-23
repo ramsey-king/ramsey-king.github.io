@@ -2,122 +2,35 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Welcome to My Data Science Portfolio
 
-[Link to another page](./another-page.html).
+## Machine Learning and Natural Language Processing
+- [Machine Learns the Sermon Topic](https://github.com/ramsey-king/DSC-550-Data-Mining/blob/master/Term%20Project/):  A supervised learning project to determine if the main topic of a speaker can be identified.
+- [Machine Learns the Sermon Speaker](https://github.com/ramsey-king/DSC-680-Applied-Data-Science/blob/main/Project-1/):  A supervised learning project to determine if the speaker of a sermon can be identified.
 
-There should be whitespace between paragraphs.
+_packages: sklearn, nltk, matplotlib, BeautifulSoup, Selenium_
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Exploratory Data Analysis
+- [Does Church and State Correlate?](https://github.com/ramsey-king/DSC-540-Data-Preparation/blob/main/Final-Project/Term%20Project%20Milestone%205.ipynb): An EDA Project to see if correlations exists between World Events, Sermon Writers, and ancient scripture.
+- [March Madness Gladness? (The Python Version)](https://github.com/ramsey-king/DSC-530-Data-Exploration/blob/main/Week-12/DSC530_Final_Project_King_Ramsey.py):  Is there a model that can predict the Final Four teams in the Men's NCAA Basketball tournament (also known as March Madness)?  This project tested many team related variables available to use to see if a model could be built (Using Python).
+- [Bureau of Labor Statistics - Employment, Hours, and Earnings - A statistical exercise](https://github.com/ramsey-king/DSC-630-Predictive-Analytics/blob/master/Week-1/KingRamseyWeek1.ipynb): A statistical look into the wonderful world of the Bureau of Labor Statistics.
 
-# Header 1
+_packages:  sklearn, nltk, sqlite3, matplotlib_
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## R Projects
+- [March Madness Gladness? (The R Version)](https://github.com/ramsey-king/DSC-520-Statistics-for-Data-Science/blob/main/Final-Project/FinalProjectStep3.Rmd): Is there a model that can predict the Final Four teams in the Men's NCAA Basketball tournament (also known as March Madness)?  This project tested many team related variables available to use to see if a model could be built (Using R).
 
-## Header 2
+_packages: ggplot2, dplyr, readxl, psych_
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## Predictive Analytics
+- [Predicting the Next Best NFL QB](https://github.com/ramsey-king/DSC-630-Predictive-Analytics/blob/master/Final%20Project/): Using supervised learning and statistical analysis, a model was created to predict the success of a football quarterback in the NFL based on their college statistics.
 
 
-### Definition lists can be used with HTML syntax.
+- [Predicting the Best Night to Increase Baseball Attendance](https://github.com/ramsey-king/DSC-630-Predictive-Analytics/blob/master/Week-3/KingRamseyWeek3.ipynb):  Using linear regression, a model was created to determine a (ficticious) marketing promotion strategy for increasing baseball game attendance.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+_packages:  sportsipy, pandas, matplotlib, sklearn_
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## Upcoming
+- [TBD - SPORTS]()
+- [TBD - ?]()
+- [TBD - ?]()
