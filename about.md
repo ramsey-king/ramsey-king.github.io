@@ -1,1 +1,5 @@
-Test info for about page.
+# My journey
+
+### My path to data science has been an unexpected one.  I graduated with an Electrical Engineering degree from Clemson University many (many) years ago.  My initial love was computers, but a programming class my junior year changed my major for me.  Fast forward to the COVID-19 global pandemic, and with a little extra time at home, I wondered if the programming fire was still there for me.  It turned out that in addition to my desire to learn how to program, my desire to continue to enjoy math and presentation skills existed as well.  If only there were a field of study that combined all three...
+
+### And with that, I will be graduating with my Masters Degree in Data Science this coming June.  Most of my professional career has been in the oil and gas industry.  It is a very cyclical industry, so adding the element of stability that a data science degree gives in addition to all the other reasons listed above is my why.  I hope that you will be intrigued by some of my projects that I am currently working on.  Thanks for stopping by!
