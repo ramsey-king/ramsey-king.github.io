@@ -1,6 +1,6 @@
 # Python.  Predictive Analytics.  Data Visualization.  Math.  Joy.
 
-## My latest Projects
+## _My latest Projects_
 
 [Machine Learns the Sermon Speaker](https://github.com/ramsey-king/DSC-680-Applied-Data-Science/blob/main/Project-1/):  A supervised learning project to determine if the speaker of a sermon can be identified.
 
