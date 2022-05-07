@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Projects
 
 ## Machine Learning and Natural Language Processing
@@ -29,6 +25,11 @@ _packages: ggplot2, dplyr, readxl, psych_
 - [Predicting the Best Night to Increase Baseball Attendance](https://github.com/ramsey-king/DSC-630-Predictive-Analytics/blob/master/Week-3/KingRamseyWeek3.ipynb):  Using linear regression, a model was created to determine a (ficticious) marketing promotion strategy for increasing baseball game attendance.
 
 _packages:  sportsipy, pandas, matplotlib, sklearn_
+
+## Data Visualization
+- [Where the GOAT's Roam](https://github.com/ramsey-king/DSC-680-Applied-Data-Science/blob/main/Project-2/):  A visualization analysis of where two of the NBA's best scorers score in the twilight of their careers.
+
+_packages:  sklearn, nba_api, pandas, matplotlib_
 
 ## Upcoming
 - [TBD - SPORTS]()
