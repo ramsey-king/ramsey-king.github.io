@@ -12,5 +12,5 @@
 
 
 <p align="center"> 
-  <img width ="400" src="/assets/images/lbjfullshotchart.png"
+  <img width ="400" src="/assets/images/lbjfullshotchart.png">
 </p>
