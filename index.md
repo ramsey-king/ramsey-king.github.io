@@ -4,8 +4,13 @@
 
 [Machine Learns the Sermon Speaker](https://github.com/ramsey-king/DSC-680-Applied-Data-Science/blob/main/Project-1/):  A supervised learning project to determine if the speaker of a sermon can be identified.
 
-![Maxwell Word Cloud](/assets/images/maxwell_word_cloud.png)
+<p align="center">
+  <img width = "500" src="/assets/images/maxwell_word_cloud.png">
+</p>                                                             
 
 [Where the GOAT's Roam](https://github.com/ramsey-king/DSC-680-Applied-Data-Science/blob/main/Project-2/):  A visualization analysis of where two of the NBA's best scorers score in the twilight of their careers.
 
-![Lebron_Shot_Chart](/assets/images/lbjfullshotchart.png)
+
+<p align="center"> 
+  <img width ="400" src="/assets/images/lbjfullshotchart.png"
+</p>
