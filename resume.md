@@ -6,24 +6,40 @@
 ------
 ### Education
 
-**Master of Science, Data Science** _2020 to 2020_
+**Master of Science, Data Science** _Dec 2020 to Jun 2022_
 	Bellevue University, Bellevue, NE
   
-**Bachelor of Science, Electrical Engineering** _1997 to 2002_
+**Bachelor of Science, Electrical Engineering** _Aug 1997 to May 2002_
 	Clemson University, Clemson, SC
   
 ------  
+
+### Technical _(Data Science)_
+
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-0pky">Python</td>
+    <td class="tg-0pky">R</td>    
+  </tr>
+  <tr>
+    <td class="tg-0pky">Power BI</td>
+    <td class="tg-0pky">Spotfire</td>    
+  </tr>
+</tbody>
+</table>
+
 ### Technical _(Oil and Gas)_
 
-* OpenWells
-* ProdView
-* WellView
-* Cygnet
-* Spotfire
-* OilField Manager
-* Rodstar
-* ARIES
-* TotalRod
+<!--- * OpenWells -->
+<!--- * ProdView -->
+<!--- * WellView -->
+<!--- * Cygnet -->
+<!--- * Spotfire -->
+<!--- * OilField Manager -->
+<!--- * Rodstar -->
+<!--- * ARIES -->
+<!--- * TotalRod -->
 
 <table class="tg">
 <tbody>
@@ -45,65 +61,71 @@
 </tbody>
 </table>
 
-### Technical _(Data Science)_
-
-* Python
-* R
-* Power BI
-* Spotfire
-* Microsoft Excel
 ------
 
 ### Experience
 
-**NTTData** *Senior Consultant* __2012 to present__
-	Designed Backbone.js based application to replace and improve upon existing legacy system.
-	Introduced BDD style testing using Jasmine/Karma into existing application code.
-	Developed modern solutions and features for large Enterprise Java systems.
-	Collaborated with and guided global team members transitioning to client side architecture.
-	**Technical Environment** Backbone.js, Jasmine.js, Coffeescript, SpringSource, Tomcat.
+**Endeavor Energy Resources** 
 
-**Sumtotal Systems** *Senior Java Developer* __2008 to 2012__
-	Designed and implemented features and improvements for multiple enterprise sized applications.
-	Automated manual report generation for legacy ticketing system to provide reliable team analytics.
-	Provided quality solutions to mission critical production issues in a timely manner.
-	Proposed, designed and implemented a realtime tracking, deployment and notification system for test environments.
-	**Technical Environment** Weblogic/Websphere, SpringSource/Wicket, MSSQL/Oracle, JUnit.
+*Technical Engineer* __Mar 2022-present__
 
-**We Can Pretend** *Technical Consultant* __2011__
-	Architected and implemented a interactive media streaming service that enabled realtime, massively multiplayer, jeopardy-style interactions.
-	Built host interface to inject synchronized prompts, overlays and widgets into live video stream.
-	Created detailed documentation regarding technical requirements, project time lines and staffing guidelines for realizing total product offering.
-	**Technical Environment** Wowza Media Server, Adobe Flex, Javascript.
+	* Project Lead for ProdView Software final phase and post implementation
+	*
+	*
+	
+*Production Engineer* __Nov 2019-Mar 2022__
 
-<!--
-**Redline Distribution** *Web Application Developer* __2008__
-	Wrote a versatile Java EE based, database-driven, e-commerce system for the real time sale, processing and shipping of products available from external distributors such as Baker-Taylor and DeepDiscount.
-	The system interfaced with external distributors to ensure current inventory, status and price and used AJAX rich components to improve usability, convenience and efficiency.
-	**Technical Environment** JBoss, Seam, MySQL, Hibernate, JSF, RichFaces, EJB.
--->
+	* Identified, documented, and executed production optimization opportunities for approximately 400 wells in Martin and Dawson Counties, TX.
+	* Provided technical support to multiple disciplines including field operations, geology, reservoir, completions, land, and drilling.
+	* 
 
-**CIBC** *Test Analyst* __2007 to 2008__
-	Eliminated manual testing processes with automated QTP scripts to increase productivity and limit repetitive human task based testing.
-	Worked cohesively with other developers and team members to plan, design and implement multi-system automated tests which simulate multiple users and roles.
-	**Technical Environment** VB, Quick Test Professional.
+**Apache Corporation** 
+	
+*Production Engineer* __Dec 2013-Nov 2019__
+
+	* Prepared over 100 workover AFE’s including multiple artificial lift installs, recompletions, and refracs.
+	* Lead monthly failure review meetings to help identify opportunities for increased production.
+	* Facilitated waterflood operations in Winkler County, TX.
+	* Lead annual field reviews to identify, document, and execute production optimization opportunities for approximately 400 wells in Glasscock County, TX.
+	* Mentored recently graduated engineers to help them learn the job functions of a Production Engineer.
+
+**Anadarko Petroluem Corporation** 
+
+*Well Operations Engineer* __Oct 2012-Dec 2013__
+
+	* Prepared over 80 workover AFE’s and procedures including plug and abandonments, remedial cementing, wellhead replacements, and production packers to support Wattenberg Horizontal Completions program
+	* Provided technical support and financial analysis to 15 workover rigs to control costs, enhance efficiency, and ensure safe operations.
+	* Supervised workover rigs on approximately 30 wells with operations including P&A’s, fishing, plug drill outs, wellbore cleanouts, gas lift installations, and wellhead changes.
+	
+*Production Engineer* __Nov 2019-Mar 2022__
+
+	* Provided artificial lift design, troubleshooting, and optimization for approximately 1000 wells.
+	* Prepared approximately 100 AFE’s and procedures to enhance the production of vertical wells, including wellbore cleanouts, tubing repairs, and commingles. 
+	* Organized and lead annual lease reviews to help identify, document, and execute production improvement opportunities for approximately 1000 wells.
+	
+*Completions Engineer* __Sep 2008-Apr 2011__
+
+	* Prepared over 350 AFE’s and completion procedures including new well completions, re-fracs, and recompletes to stimulate multiple formations in the Wattenberg field.
+	* Recommended stimulation design enhancements based on post completion analysis.
+	* Oversaw approximately 250 vertical stimulations such as slickwater, gel, nitrogen.
 
 ------
-
+<!---
 ### Projects
 
-* **Ethical Barcode**
-	<a href=http://www.ethicalbarcode.com class=not-printed>ethicalbarcode.com</a>
-	Cordova based app(iOS & Android) that leverages a huge amalgamation of public data. Driven by over 30 web spiders, 15 webservices and multiple external databases it provides brand ratings from non-profit organisations by scanning product barcodes.
+* **Project 1**
+	
+	
+* **Project 2**
+	
 
-* **Halifax Crime Heatmap**
-	<a href=http://www.crimeheatmap.ca class=not-printed>crimeheatmap.ca</a>
-	HTML5 Animated heatmap visualising crimes in the city of Halifax. Built on a customised version Heatmap.js library which enables smooth animation. Won silver in the [Apps4Halifax](http://apps4halifax.ca/) city category.
-
-* **Foxish**
-	<a href=https://chrome.google.com/webstore/detail/jpgagcapnkccceppgljfpoadahaopjdb class=not-printed>chrome.google.com</a>
-	Chrome extension that enables Firefox-style live RSS feeds with over fifteen thousand active users a 4/5 star rating. Featured on [Gizmodo](http://gizmodo.com/5609633/10-add+ons-you-have-to-know-about-for-google-chrome) & [LifeHacker](http://lifehacker.com/5603602/foxish-live-rss-adds-live-bookmarks-to-google-chrome).
-
+* **Project 3**
 ------
+-->
+### Activities
 
-
+* Church Leadership Assistant 2017-present
+* Bowling League 2014-2016
+* Flag Football League 2009-2013
+* Missionary for The Church of Jesus Christ of Latter-Day Saints, Philadelphia, PA 2003-2005
+------
