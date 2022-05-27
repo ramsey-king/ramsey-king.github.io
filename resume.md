@@ -69,15 +69,16 @@
 
 *Technical Engineer:* __Mar 2022-present__
 
-* Project Lead for ProdView Software final phase and post implementation
+* Project Lead for ProdView Software final phase and post implementation.
+<!--- *
 *
-*
-	
+-->
+
 *Production Engineer:* __Nov 2019-Mar 2022__
 
 * Identified, documented, and executed production optimization opportunities for approximately 400 wells in Martin and Dawson Counties, TX.
 * Provided technical support to multiple disciplines including field operations, geology, reservoir, completions, land, and drilling.
-* 
+<!--- * --> 
 
 **Apache Corporation** 
 	
