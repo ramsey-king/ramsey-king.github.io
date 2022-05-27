@@ -6,10 +6,10 @@
 ------
 ### Education
 
-**Master of Science, Data Science** _Dec 2020 to Jun 2022_
+**Master of Science, Data Science** _Dec 2020-Jun 2022_
 	Bellevue University, Bellevue, NE
   
-**Bachelor of Science, Electrical Engineering** _Aug 1997 to May 2002_
+**Bachelor of Science, Electrical Engineering** _Aug 1997-May 2002_
 	Clemson University, Clemson, SC
   
 ------  
@@ -67,49 +67,49 @@
 
 **Endeavor Energy Resources** 
 
-*Technical Engineer* __Mar 2022-present__
+*Technical Engineer:* __Mar 2022-present__
 
-	* Project Lead for ProdView Software final phase and post implementation
-	*
-	*
+* Project Lead for ProdView Software final phase and post implementation
+*
+*
 	
-*Production Engineer* __Nov 2019-Mar 2022__
+*Production Engineer:* __Nov 2019-Mar 2022__
 
-	* Identified, documented, and executed production optimization opportunities for approximately 400 wells in Martin and Dawson Counties, TX.
-	* Provided technical support to multiple disciplines including field operations, geology, reservoir, completions, land, and drilling.
-	* 
+* Identified, documented, and executed production optimization opportunities for approximately 400 wells in Martin and Dawson Counties, TX.
+* Provided technical support to multiple disciplines including field operations, geology, reservoir, completions, land, and drilling.
+* 
 
 **Apache Corporation** 
 	
-*Production Engineer* __Dec 2013-Nov 2019__
+*Production Engineer:* __Dec 2013-Nov 2019__
 
-	* Prepared over 100 workover AFE’s including multiple artificial lift installs, recompletions, and refracs.
-	* Lead monthly failure review meetings to help identify opportunities for increased production.
-	* Facilitated waterflood operations in Winkler County, TX.
-	* Lead annual field reviews to identify, document, and execute production optimization opportunities for approximately 400 wells in Glasscock County, TX.
-	* Mentored recently graduated engineers to help them learn the job functions of a Production Engineer.
+* Prepared over 100 workover AFE’s including multiple artificial lift installs, recompletions, and refracs.
+* Lead monthly failure review meetings to help identify opportunities for increased production.
+* Facilitated waterflood operations in Winkler County, TX.
+* Lead annual field reviews to identify, document, and execute production optimization opportunities for approximately 400 wells in Glasscock County, TX.
+* Mentored recently graduated engineers to help them learn the job functions of a Production Engineer.
 
 **Anadarko Petroluem Corporation** 
 
-*Well Operations Engineer* __Oct 2012-Dec 2013__
+*Well Operations Engineer:* __Oct 2012-Dec 2013__
 
-	* Prepared over 80 workover AFE’s and procedures including plug and abandonments, remedial cementing, wellhead replacements, and production packers
-	to support Wattenberg Horizontal Completions program
-	* Provided technical support and financial analysis to 15 workover rigs to control costs, enhance efficiency, and ensure safe operations.
-	* Supervised workover rigs on approximately 30 wells with operations including P&A’s, fishing, plug drill outs, wellbore cleanouts, 
-	gas lift installations, and wellhead changes.
-	
-*Production Engineer* __Nov 2019-Mar 2022__
+* Prepared over 80 workover AFE’s and procedures including plug and abandonments, remedial cementing, wellhead replacements, and production packers
+to support Wattenberg Horizontal Completions program
+* Provided technical support and financial analysis to 15 workover rigs to control costs, enhance efficiency, and ensure safe operations.
+* Supervised workover rigs on approximately 30 wells with operations including P&A’s, fishing, plug drill outs, wellbore cleanouts, 
+gas lift installations, and wellhead changes.
 
-	* Provided artificial lift design, troubleshooting, and optimization for approximately 1000 wells.
-	* Prepared approximately 100 AFE’s and procedures to enhance the production of vertical wells, including wellbore cleanouts, tubing repairs, and commingles. 
-	* Organized and lead annual lease reviews to help identify, document, and execute production improvement opportunities for approximately 1000 wells.
-	
-*Completions Engineer* __Sep 2008-Apr 2011__
+*Production Engineer:* __Nov 2019-Mar 2022__
 
-	* Prepared over 350 AFE’s and completion procedures including new well completions, re-fracs, and recompletes to stimulate multiple formations in the Wattenberg field.
-	* Recommended stimulation design enhancements based on post completion analysis.
-	* Oversaw approximately 250 vertical stimulations such as slickwater, gel, nitrogen.
+* Provided artificial lift design, troubleshooting, and optimization for approximately 1000 wells.
+* Prepared approximately 100 AFE’s and procedures to enhance the production of vertical wells, including wellbore cleanouts, tubing repairs, and commingles. 
+* Organized and lead annual lease reviews to help identify, document, and execute production improvement opportunities for approximately 1000 wells.
+
+*Completions Engineer:* __Sep 2008-Apr 2011__
+
+* Prepared over 350 AFE’s and completion procedures including new well completions, re-fracs, and recompletes to stimulate multiple formations in the Wattenberg field.
+* Recommended stimulation design enhancements based on post completion analysis.
+* Oversaw approximately 250 vertical stimulations such as slickwater, gel, nitrogen.
 
 ------
 <!---
