@@ -93,9 +93,11 @@
 
 *Well Operations Engineer* __Oct 2012-Dec 2013__
 
-	* Prepared over 80 workover AFE’s and procedures including plug and abandonments, remedial cementing, wellhead replacements, and production packers to support Wattenberg Horizontal Completions program
+	* Prepared over 80 workover AFE’s and procedures including plug and abandonments, remedial cementing, wellhead replacements, and production packers
+	to support Wattenberg Horizontal Completions program
 	* Provided technical support and financial analysis to 15 workover rigs to control costs, enhance efficiency, and ensure safe operations.
-	* Supervised workover rigs on approximately 30 wells with operations including P&A’s, fishing, plug drill outs, wellbore cleanouts, gas lift installations, and wellhead changes.
+	* Supervised workover rigs on approximately 30 wells with operations including P&A’s, fishing, plug drill outs, wellbore cleanouts, 
+	gas lift installations, and wellhead changes.
 	
 *Production Engineer* __Nov 2019-Mar 2022__
 
@@ -124,8 +126,9 @@
 -->
 ### Activities
 
-* Church Leadership Assistant 2017-present
-* Bowling League 2014-2016
-* Flag Football League 2009-2013
-* Missionary for The Church of Jesus Christ of Latter-Day Saints, Philadelphia, PA 2003-2005
+* Church Leadership Assistant: 2017-present
+* Bowling League: 2014-2016
+* Flag Football League: 2009-2013
+* Missionary for The Church of Jesus Christ of Latter-Day Saints: Philadelphia, PA 2003-2005
+
 ------
